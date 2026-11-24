@@ -1,0 +1,24 @@
+
+# Executables
+*.exe
+*.out
+*.test
+
+# Coverage
+coverage.out
+coverage.html
+
+# Environment variables
+.env
+.env.*
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+tmp/
